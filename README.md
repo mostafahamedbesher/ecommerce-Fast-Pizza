@@ -21,7 +21,10 @@ beautifully styled with Tailwind CSS. It provides a user-friendly interface for 
 * User Friendly
 
 ## Demo
- Link : https://fast-pizza-besher.netlify.app
+### Video
+https://github.com/mostafahamedbesher/ecommerce-Fast-Pizza/assets/77936621/92b1caac-bde1-42b5-b5a6-96983bb54601
+
+### Link : https://fast-pizza-besher.netlify.app
 
 ## ScreenShots
 ![1](https://github.com/mostafahamedbesher/ecommerce-Fast-Pizza/assets/77936621/4439ad37-a079-4ea5-b2a3-9487513bb6d0)
