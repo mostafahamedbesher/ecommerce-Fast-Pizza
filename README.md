@@ -1,8 +1,27 @@
-# React + Vite
+# Fast Pizza ecommerce-website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
+This project is a fully responsive ecommerce pizza restaurant app,
+beautifully styled with Tailwind CSS. It provides a user-friendly interface for browsing restaurant products.
 
-Currently, two official plugins are available:
+## Technologies Used
+* Reactjs
+* Redux Toolkit
+* thunks
+* React Router data loading
+* Tailwind CSS
+* Responsive Design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+* Cart Management
+* Responsive
+* Search Submitted Orders
+* Change order priority after submitting
+* Getting your Address using Geolocation API
+* User Friendly
+
+## Demo
+ Link : https://fast-pizza-besher.netlify.app
+
+## ScreenShots
+![MarineGEO circle logo](C:\Users\mostafa\Desktop\Fast-Pizza\1.png")
